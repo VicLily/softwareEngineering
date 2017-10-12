@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: lib/json-lib-2.3-jdk15.jar lib/commons-collections-3.2.1.j
+ ar lib/commons-lang-2.5.jar lib/commons-logging-1.1.1.jar lib/ezmorph
+ -1.0.6.jar lib/commons-beanutils-1.8.3.jar lib/mongo-java-driver-3.4.
+ 2.jar
+Main-Class: work3.index
+
